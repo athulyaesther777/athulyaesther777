@@ -52,14 +52,15 @@ Currently, I am **learning and working on AI projects** to enhance my expertise 
 
 ## 📂 AI & ML Projects  
 
-🚀 **[Simple AI Chatbot](https://github.com/athulyaesther777/ai-chatbot-langchain)**   
-🔹 Experimenting with **LangChain & OpenAI APIs** to build a simple AI-powered chatbot.  
+🚀 **[Simple AI Chatbot](https://github.com/athulyaesther777/ai-chatbot-langchain)**  
+🔹 Developing an AI-powered chatbot using **LangChain & OpenAI APIs**.  
 
-🚀 **[NLP Text Processing Toolkit](https://github.com/athulyaesther777/nlp-text-processing)** 
-🔹 Creating a toolkit to perform **text analysis, sentiment detection, and summarization**.  
+🚀 **[NLP Text Processing Toolkit](https://github.com/athulyaesther777/nlp-text-processing)**  
+🔹 Building a toolkit for **text analysis, sentiment detection, and text summarization**.  
 
-🚀 **[AI-Powered Resume Screener](https://github.com/athulyaesther777/ai-resume-screener)** *(Upcoming Project)*  
-🔹 Using **ML and NLP** to automate the resume screening process for recruiters.  
+🚀 **[AI-Powered Resume Screener](https://github.com/athulyaesther777/ai-resume-screener) *(Upcoming Project)***  
+🔹 Implementing **ML & NLP** to automate the resume screening process for recruiters.  
+
 
 🔗 More projects coming soon!  
 
