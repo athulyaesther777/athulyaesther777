@@ -1,9 +1,3 @@
-<!-- Header Image (Update the correct URL for your banner image) -->
-<p align="center">
-   
-   "AI Engineer | ML Enthusiast | LangChain Developer" width="100%">
-</p>
-
 <!-- Title -->
 <h1 align="center">Hi, I'm Athulya Esther 👋</h1>
 
