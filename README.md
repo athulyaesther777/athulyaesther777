@@ -1,6 +1,6 @@
 <!-- Header Image (Update the correct URL for your banner image) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/athulyaesther777/your-repo-name/main/banner.png" 
+   
        alt="AI Engineer | ML Enthusiast | LangChain Developer" width="100%">
 </p>
 
