@@ -49,7 +49,7 @@ With experience in **LangChain, OpenAI APIs, and AI Automation**, I focus on dev
 🔗 **LinkedIn:** [linkedin.com/in/athulyaesther777](https://www.linkedin.com/in/athulyaesther777/)  
 🐦 **Twitter:** [twitter.com/athulyaesther777](https://twitter.com/athulyaesther777)  
 📺 **YouTube:** [youtube.com/@pyaihub](https://youtube.com/@pyaihub)  
-📧 **Email:** athulya@example.com  
+📧 **Email:** athulyaestherlucky75@gmail.com 
 
 ---
 
