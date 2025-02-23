@@ -1,7 +1,7 @@
 <!-- Header Image (Update the correct URL for your banner image) -->
 <p align="center">
    
-       alt="AI Engineer | ML Enthusiast | LangChain Developer" width="100%">
+   "AI Engineer | ML Enthusiast | LangChain Developer" width="100%">
 </p>
 
 <!-- Title -->
