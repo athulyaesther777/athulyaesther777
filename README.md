@@ -1,85 +1,57 @@
 <!-- Title -->
-<h1 align="center">Hi, I'm Athulya Esther 👋</h1>
+<h1 align="center">🚀 Athulya Esther | AI Engineer & Machine Learning Specialist</h1>
 
-<h3 align="center">
-  🚀 AI Engineer | Machine Learning | NLP | LangChain | LLMs
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=athulyaesther777&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
-</p>
+<h3 align="center">🔹 Expert in NLP | LangChain | LLMs | AI Automation 🔹</h3>
 
 ---
 
 ## 📌 About Me  
 
-🚀 AI Engineer with a passion for **building intelligent solutions** using Machine Learning, NLP, and LLMs.  
-🔍 Exploring **LangChain, OpenAI APIs, and Generative AI** to create **cutting-edge AI applications**.  
-💡 I love **solving real-world problems** through AI and always **learning new advancements in AI & ML**.  
-🎯 Looking to **collaborate on AI projects**, especially in NLP, LLMs, and AI automation.  
+I am an **AI Engineer** specializing in **Machine Learning, NLP, and Large Language Models (LLMs)**.  
+With experience in **LangChain, OpenAI APIs, and AI Automation**, I focus on developing **real-world AI solutions**.  
+
+🔹 **Expertise:** Deep Learning, NLP, LLMs, Generative AI  
+🔹 **Tech Stack:** Python, TensorFlow, PyTorch, LangChain, FastAPI, Docker, AWS  
+🔹 **Passionate About:** Building scalable AI applications and contributing to AI research  
+
+💡 Currently seeking opportunities to collaborate on **cutting-edge AI projects**.  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulyaesther777&theme=dark&hide_border=true" width="400">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=athulyaesther777&show_icons=true&theme=radical&hide_border=true" width="400">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athulyaesther777&layout=compact&theme=tokyonight&hide_border=true" width="400">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=athulyaesther777&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulyaesther777&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athulyaesther777&layout=compact&theme=tokyonight&hide_border=true" width="40%">
 </p>
 
 ---
 
-## 🛠️ Tech Stack & Skills  
+## 🛠️ Tech Stack  
 
-### **💻 Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### **🤖 AI & Machine Learning**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-
-### **🧠 Large Language Models & NLP**  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=yellow)  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
-![LLMs](https://img.shields.io/badge/LLMs-%23008080.svg?style=for-the-badge&logo=ai&logoColor=white)  
-
-### **⚡ API Development & Backend**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-
-### **🚀 MLOps & AI Deployment**  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-### **🛠️ Development Tools**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+| **Category**         | **Technologies**                                       |
+|----------------------|------------------------------------------------------|
+| **Languages**        | Python, JavaScript, SQL                              |
+| **AI & ML**         | TensorFlow, PyTorch, Scikit-Learn                     |
+| **NLP & LLMs**      | LangChain, OpenAI APIs, Hugging Face                  |
+| **APIs & Backend**  | FastAPI, Flask, Postman                               |
+| **MLOps & Deployment** | GitHub Actions, Docker, AWS                     |
+| **Development Tools** | GitHub, VS Code, Jupyter Notebook                   |
 
 ---
 
 ## 📫 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/athulyaesther777/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/athulyaesther777">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://youtube.com/@pyaihub">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
+
+🔗 **LinkedIn:** [linkedin.com/in/athulyaesther777](https://www.linkedin.com/in/athulyaesther777/)  
+🐦 **Twitter:** [twitter.com/athulyaesther777](https://twitter.com/athulyaesther777)  
+📺 **YouTube:** [youtube.com/@pyaihub](https://youtube.com/@pyaihub)  
+📧 **Email:** athulya@example.com  
 
 ---
 
-## 🎉 Fun GIF  
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500">
-</p>
-
----
+## 🌟 Quote of the Day  
+_"The best way to predict the future is to create it."_ – Peter Drucker  
