@@ -52,10 +52,10 @@ Currently, I am **learning and working on AI projects** to enhance my expertise 
 
 ## 📂 AI & ML Projects  
 
-🚀 **[Simple AI Chatbot](https://github.com/athulyaesther777/ai-chatbot-langchain)** *(In Progress)*  
+🚀 **[Simple AI Chatbot](https://github.com/athulyaesther777/ai-chatbot-langchain)**   
 🔹 Experimenting with **LangChain & OpenAI APIs** to build a simple AI-powered chatbot.  
 
-🚀 **[NLP Text Processing Toolkit](https://github.com/athulyaesther777/nlp-text-processing)** *(In Progress)*  
+🚀 **[NLP Text Processing Toolkit](https://github.com/athulyaesther777/nlp-text-processing)** 
 🔹 Creating a toolkit to perform **text analysis, sentiment detection, and summarization**.  
 
 🚀 **[AI-Powered Resume Screener](https://github.com/athulyaesther777/ai-resume-screener)** *(Upcoming Project)*  
@@ -75,4 +75,4 @@ Currently, I am **learning and working on AI projects** to enhance my expertise 
 ---
 
 ## 🌟 AI Quote of the Day  
-_"Artificial intelligence is the future, and the future is here." — Dave Waters_  
+_"The best way to predict the future is to create it." — Peter Drucker_
