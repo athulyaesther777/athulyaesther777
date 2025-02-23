@@ -68,7 +68,7 @@ Currently, I am **learning and working on AI projects** to enhance my expertise 
 
 ## 📫 Connect with Me  
 
-🔗 **LinkedIn:** [linkedin.com/in/athulyaesther777](https://www.linkedin.com/in/athulyaesther777/)  
+🔗 **LinkedIn:** [linkedin.com/in/athulyaesther777](https://www.linkedin.com/in/athulya-b-vijay-b65740220/)  
 🐦 **Twitter:** [twitter.com/athulyaesther777](https://twitter.com/athulyaesther777)  
 📺 **YouTube:** [youtube.com/@pyaihub](https://youtube.com/@pyaihub)  
 📧 **Email:** athulyaestherlucky75@gmail.com
