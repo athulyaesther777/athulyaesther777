@@ -3,6 +3,10 @@
 
 <h3 align="center">🔹 Expert in NLP | LangChain | LLMs | AI Automation 🔹</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=athulyaesther777&label=Profile%20Views&color=blue&style=flat" alt="Profile Views">
+</p>
+
 ---
 
 ## 📌 About Me  
@@ -49,7 +53,7 @@ With experience in **LangChain, OpenAI APIs, and AI Automation**, I focus on dev
 🔗 **LinkedIn:** [linkedin.com/in/athulyaesther777](https://www.linkedin.com/in/athulyaesther777/)  
 🐦 **Twitter:** [twitter.com/athulyaesther777](https://twitter.com/athulyaesther777)  
 📺 **YouTube:** [youtube.com/@pyaihub](https://youtube.com/@pyaihub)  
-📧 **Email:** athulyaestherlucky75@gmail.com 
+📧 **Email:** athulya@example.com  
 
 ---
 
