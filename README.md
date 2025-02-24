@@ -45,6 +45,11 @@ Currently, I’m **building AI-driven applications** with a focus on **LangChain
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=athulyaesther777&theme=tokyonight&hide_border=true">
+</p>
+
+
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athulyaesther777&layout=compact&theme=tokyonight&hide_border=true" width="40%">
 </p>
 
