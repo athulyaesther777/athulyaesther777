@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 About Me  
+## 📌 About Me   
 
 I am an **Aspiring AI Engineer**, passionate about **Machine Learning, NLP, and Large Language Models (LLMs)**.  
 Currently, I’m **building AI-driven applications** with a focus on **LangChain, OpenAI APIs, and AI automation**.  
