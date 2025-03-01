@@ -54,7 +54,7 @@ Currently, I’m **building AI-driven applications** with a focus on **LangChain
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athulyaesther777&theme=tokyo-night">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=athulyaesther777&theme=tokyo-night"> 
 </p>
 
 ---
