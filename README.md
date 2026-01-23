@@ -76,7 +76,7 @@ Currently, I’m **building AI-driven applications** with a focus on **LangChain
 ## 📫 Connect with Me  
 
 🔗 **LinkedIn:** [linkedin.com/in/athulyaesther777](https://www.linkedin.com/in/athulya-b-vijay-b65740220/)  
-🐦 **Twitter:** [twitter.com/athulyaesther777](https://twitter.com/athulyaesther777)  
+🐦 **Twitter:** [twitter.com/athulyaesther777](https://x.com/athulya_esther)  
 📺 **YouTube:** [youtube.com/@pyaihub](https://youtube.com/@pyaihub)  
 📧 **Email:** athulyaestherlucky75@gmail.com  
 
