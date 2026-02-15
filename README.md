@@ -1,104 +1,66 @@
-<h1 align="center">Athulya B Vijay</h1>
-<h3 align="center">AI Engineer | Machine Learning | NLP | LLM Applications</h3>
+# 📊 Athulya Esther | Data Analyst & Analytics Engineer
 
 <p align="center">
-  Building intelligent systems using Python, ML, and Large Language Models.
+  <img src="https://komarev.com/ghpvc/?username=athulyaesther777&label=Analytics%20Queries&color=3b82f6&style=flat" alt="Profile Views">
+</p> 
+
+> **Bridging the gap between raw data and strategic business decisions.**
+
+---
+
+## 📌 About Me
+I am a **Data Analyst** with a strong background in Computer Science and a passion for uncovering actionable insights. I specialize in building end-to-end data pipelines, from **SQL-based extraction** to **interactive executive dashboards**.
+
+- 🇮🇪 **Goal:** Seeking Data Analyst Internship opportunities in Ireland.
+- 🎓 **Education:** B.Tech in Computer Science (CGPA: 7.02).
+- 📜 **Certification:** Currently completing the **Google Data Analytics Professional Certificate**.
+- 💡 **Philosophy:** Data is just numbers until it tells a story that moves the business forward.
+
+---
+
+## 🛠️ Data Analytics Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Data Querying** | **SQL (Advanced: Joins, CTEs, Window Functions)**, SQLite |
+| **Analysis & Scripting** | **Python (Pandas, NumPy, Scikit-learn)**, Excel (Pivot Tables) |
+| **Visualization** | **Power BI**, Tableau (Learning), **Streamlit**, Plotly, Matplotlib |
+| **Forecasting** | Time Series (ARIMA, Prophet, LSTM), Statistical Modeling |
+| **Workflow** | Git, GitHub, Jupyter Notebooks, VS Code |
+
+---
+
+## 📂 Featured Analytics Projects
+
+### 🏨 [Hotel Booking KPI Analysis](https://github.com/athulyaesther777/PyAI_Hub/tree/main/PyAIHubProjects/hotel-booking-data-cleaner)
+*Analyzed 100k+ records to identify drivers behind a 30% cancellation rate.*
+- **Outcome:** Delivered a structured report on pricing strategies to reduce churn.
+- **Tech:** Python (Pandas), SQL-style transformations, Exploratory Data Analysis (EDA).
+
+### ⚡ [Household Power Demand Forecasting](https://github.com/athulyaesther777/household-power-consumption-ml)
+*Built a predictive model to forecast energy consumption trends.*
+- **Outcome:** Achieved high accuracy using ARIMA & Prophet; deployed via Streamlit for real-time monitoring.
+- **Tech:** Time Series Analysis, Prophet, Streamlit, Plotly.
+
+### 📉 [End-to-End Business Data Pipeline](https://github.com/athulyaesther777/PyAI_Hub/blob/main/Pandas/pandas_advanced/adv_pd_part10.py)
+*A full-stack analysis of customer behavior and revenue drivers.*
+- **Outcome:** Identified top-performing regions and customer segments for marketing optimization.
+- **Tech:** Python, Matplotlib, Feature Engineering.
+
+---
+
+## 📊 Analytics Impact
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=athulyaesther777&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=athulyaesther777&layout=compact&theme=tokyonight&hide_border=true" width="40%">
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-I am an AI Engineer focused on building practical machine learning and NLP systems.
-
-My work spans:
-
-- Large Language Model (LLM) applications  
-- NLP pipelines (text classification, sentiment analysis, summarization)  
-- Predictive modeling and feature engineering  
-- AI-powered automation tools  
-
-I aim to design AI systems that are not just experimental — but deployable and scalable.
+## 📫 Connect with Me
+- [cite_start]**LinkedIn:** [linkedin.com/in/athulya-b-vijay](https://www.linkedin.com/in/athulya-b-vijay-b65740220/) [cite: 4]
+- [cite_start]**Portfolio:** [athulyaesther777.github.io/portfolio](https://athulyaesther777.github.io/portfolio) [cite: 4]
+- [cite_start]**Email:** [athulyaestherlucky75@gmail.com](mailto:athulyaestherlucky75@gmail.com) [cite: 3]
 
 ---
-
-## 🔬 Core Expertise
-
-### 🤖 Machine Learning
-- Supervised Learning (Classification, Regression)
-- Model Evaluation & Optimization
-- Feature Engineering
-- Scikit-learn, TensorFlow, PyTorch
-
-### 🧠 NLP & LLM Applications
-- LangChain-based chatbot systems
-- Prompt Engineering & API orchestration
-- Hugging Face Transformers
-- Text preprocessing with SpaCy & NLTK
-
-### 🚀 Deployment & Engineering
-- FastAPI for ML endpoints
-- Streamlit for interactive AI tools
-- GitHub Actions (basic CI)
-- Docker (learning & experimentation)
-
----
-
-## 📂 Featured Projects
-
-### 🧩 AI Chatbot using LangChain & OpenAI
-- Built conversational AI pipeline using LangChain chains & prompt templates
-- Integrated OpenAI API for contextual responses
-- Structured memory and conversational flow handling
-
-🔗 https://github.com/athulyaesther777/ai-chatbot-langchain
-
----
-
-### 📊 NLP Text Processing Toolkit
-- Developed reusable NLP modules for:
-  - Sentiment Analysis
-  - Text Cleaning
-  - Keyword Extraction
-  - Basic Summarization
-- Implemented preprocessing pipelines using SpaCy
-
-🔗 https://github.com/athulyaesther777/nlp-text-processing
-
----
-
-### 📄 AI Resume Screener (In Progress)
-- Designing ML pipeline for automated resume scoring
-- Feature extraction from structured & unstructured text
-- Goal: Improve recruitment filtering efficiency
-
-🔗 https://github.com/athulyaesther777/ai-resume-screener
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athulyaesther777&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
----
-
-## 🎯 Current Focus
-
-- Deepening understanding of Transformer architectures
-- Building production-ready ML APIs
-- Improving model deployment workflows
-- Strengthening statistical foundations
-
----
-
-## 📫 Connect
-
-LinkedIn: https://www.linkedin.com/in/athulya-b-vijay-b65740220/  
-Email: athulyaestherlucky75@gmail.com  
-Portfolio: https://athulyaesther777.github.io/portfolio  
-
----
-
-> “AI is not about building models. It’s about solving problems with intelligence.”
+*"In God we trust. All others must bring data." – W. Edwards Deming*
