@@ -105,7 +105,7 @@ https://github.com/athulyaesther777/PyAI_Hub
 
 **Professional**
 - LinkedIn: https://www.linkedin.com/in/athulya-b-vijay-b65740220 
-- Alternate Portfolio: https://athulyaesther777.github.io/portfolio_  
+- Portfolio: https://athulyaesther777.github.io/portfolio_/
 - Email: athulyaestherlucky75@gmail.com  
 
 **Content & Community**
