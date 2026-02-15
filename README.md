@@ -5,7 +5,7 @@ Translating complex datasets into clear, KPI-driven insights that support strate
 
 ---
 
-## 🇮🇪 Professional Profile
+##  Profile
 
 Computer Science graduate with a strong focus on Business Analytics and data-driven problem solving.  
 
