@@ -101,18 +101,18 @@ https://github.com/athulyaesther777/PyAI_Hub
 - Preparing for analytics roles in Ireland  
 
 ---
-
 ## 📫 Connect
 
-LinkedIn:  
-https://www.linkedin.com/in/athulya-b-vijay-b65740220/
+**Professional**
+- LinkedIn: https://www.linkedin.com/in/athulya-b-vijay-b65740220  
+- Portfolio: https://athulyaesther777.github.io/portfolio  
+- Alternate Portfolio: https://athulyaesther777.github.io/portfolio_  
+- Email: athulyaestherlucky75@gmail.com  
 
-Email:  
-athulyaestherlucky75@gmail.com
-
-Portfolio:  
-https://athulyaesther777.github.io/portfolio
-
----
-
-“Data provides the map. Analytics provides the direction.”
+**Content & Community**
+- Instagram (PyAI Hub): https://www.instagram.com/pyaihub  
+- X (Twitter): https://x.com/athulya_esther  
+- Threads: https://www.threads.com/@pyaihub  
+- Facebook: https://www.facebook.com/share/1CPcKgBJL8/  
+- Discord Community: https://discord.gg/r2Bh7vSHQ
+es the map. Analytics provides the direction.”
