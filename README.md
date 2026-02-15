@@ -1,83 +1,82 @@
 <h1 align="center">Athulya B Vijay</h1>
-<h3 align="center">Data Analyst | SQL | Python | Business Analytics</h3>
+<h3 align="center">AI Engineer | Machine Learning | NLP | LLM Applications</h3>
 
 <p align="center">
-  Transforming raw data into actionable insights through analytics and visualization.
+  Building intelligent systems using Python, ML, and Large Language Models.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Data Analyst with a background in Computer Science and hands-on experience in:
+I am an AI Engineer focused on building practical machine learning and NLP systems.
 
-- SQL-based data analysis  
-- Data cleaning & preprocessing  
-- Exploratory Data Analysis (EDA)  
-- KPI reporting & dashboard development  
-- Time-series forecasting & predictive modeling  
+My work spans:
 
-I focus on turning structured datasets into clear business insights that support data-driven decisions.
+- Large Language Model (LLM) applications  
+- NLP pipelines (text classification, sentiment analysis, summarization)  
+- Predictive modeling and feature engineering  
+- AI-powered automation tools  
 
----
-
-## 🛠 Technical Stack
-
-### 📊 Data Analytics
-- **SQL** (Joins, Aggregations, CTEs)
-- **Python** (Pandas, NumPy)
-- Data Cleaning & Transformation
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-
-### 📈 Visualization & Reporting
-- Excel (Pivot Tables, Lookup Functions)
-- Power BI (Basic)
-- Matplotlib
-- Seaborn
-- Plotly
-- Streamlit Dashboards
-
-### 🤖 Analytics & Modeling
-- Classification & Regression
-- Time Series (ARIMA, Prophet, LSTM)
-- Model Evaluation (RMSE, MAE, Accuracy)
+I aim to design AI systems that are not just experimental — but deployable and scalable.
 
 ---
 
-## 📂 Featured Data Analytics Projects
+## 🔬 Core Expertise
 
-### 📌 Hotel Booking Data Cleaning & KPI Analysis
-- Processed 100k+ booking records
-- Handled missing values & inconsistencies
-- Calculated KPIs (cancellation rate, lead time, seasonal trends)
-- Delivered business insights for pricing strategy  
+### 🤖 Machine Learning
+- Supervised Learning (Classification, Regression)
+- Model Evaluation & Optimization
+- Feature Engineering
+- Scikit-learn, TensorFlow, PyTorch
 
-🔗 [View Project](https://github.com/athulyaesther777/PyAI_Hub/tree/main/PyAIHubProjects/hotel-booking-data-cleaner)
+### 🧠 NLP & LLM Applications
+- LangChain-based chatbot systems
+- Prompt Engineering & API orchestration
+- Hugging Face Transformers
+- Text preprocessing with SpaCy & NLTK
 
----
-
-### 📌 Time Series Forecasting & Demand Analysis
-- Cleaned and analyzed time-series datasets
-- Built ARIMA & Prophet forecasting models
-- Evaluated performance using RMSE & MAE
-- Generated demand projections  
-
-🔗 [View Project](https://github.com/athulyaesther777/PyAI_Hub/tree/main/PyAIHubProjects/Time%20Series%20Forecasting)
-
----
-
-### 📌 End-to-End Business Data Analysis
-- Designed full analytics workflow (CSV → Cleaning → EDA → Visualization)
-- Analyzed 30k+ customer records
-- Identified churn indicators & revenue drivers
-- Generated structured analytical reports  
-
-🔗 [View Project](https://github.com/athulyaesther777/PyAI_Hub)
+### 🚀 Deployment & Engineering
+- FastAPI for ML endpoints
+- Streamlit for interactive AI tools
+- GitHub Actions (basic CI)
+- Docker (learning & experimentation)
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Projects
+
+### 🧩 AI Chatbot using LangChain & OpenAI
+- Built conversational AI pipeline using LangChain chains & prompt templates
+- Integrated OpenAI API for contextual responses
+- Structured memory and conversational flow handling
+
+🔗 https://github.com/athulyaesther777/ai-chatbot-langchain
+
+---
+
+### 📊 NLP Text Processing Toolkit
+- Developed reusable NLP modules for:
+  - Sentiment Analysis
+  - Text Cleaning
+  - Keyword Extraction
+  - Basic Summarization
+- Implemented preprocessing pipelines using SpaCy
+
+🔗 https://github.com/athulyaesther777/nlp-text-processing
+
+---
+
+### 📄 AI Resume Screener (In Progress)
+- Designing ML pipeline for automated resume scoring
+- Feature extraction from structured & unstructured text
+- Goal: Improve recruitment filtering efficiency
+
+🔗 https://github.com/athulyaesther777/ai-resume-screener
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athulyaesther777&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
@@ -85,12 +84,21 @@ I focus on turning structured datasets into clear business insights that support
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Current Focus
 
-🔗 LinkedIn: https://www.linkedin.com/in/athulya-b-vijay-b65740220/  
-📧 Email: athulyaestherlucky75@gmail.com  
-🌐 Portfolio: https://athulyaesther777.github.io/portfolio  
+- Deepening understanding of Transformer architectures
+- Building production-ready ML APIs
+- Improving model deployment workflows
+- Strengthening statistical foundations
 
 ---
 
-> “Data is only valuable when it tells a story.”
+## 📫 Connect
+
+LinkedIn: https://www.linkedin.com/in/athulya-b-vijay-b65740220/  
+Email: athulyaestherlucky75@gmail.com  
+Portfolio: https://athulyaesther777.github.io/portfolio  
+
+---
+
+> “AI is not about building models. It’s about solving problems with intelligence.”
