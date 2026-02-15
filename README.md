@@ -114,4 +114,4 @@ https://github.com/athulyaesther777/PyAI_Hub
 - Threads: https://www.threads.com/@pyaihub  
 - Facebook: https://www.facebook.com/share/1CPcKgBJL8/  
 - Discord Community: https://discord.gg/r2Bh7vSHQ
-es the map. Analytics provides the direction.”
+
